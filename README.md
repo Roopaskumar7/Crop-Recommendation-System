@@ -53,15 +53,8 @@ pip install -r requirements.txt
 python app.py
 
 ## 🎯 Output
-- The system predicts the most suitable crop based on given inputs  
+- The system predicts the most suitable crop based on given inputs
 
-
-## 📌 Future Improvements
-- Add more accurate ML models  
-- Deploy the project online  
-- Improve UI design  
-
----
 
 ## 👨‍💻 Author
 Roopas Kumar
